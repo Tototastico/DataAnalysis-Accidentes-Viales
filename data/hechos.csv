@@ -3,13 +3,13 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0002,1,2016-01-02,1,gral paz,De los corrales av.,"Paz, gral. av. y de los corrales av.",9,-58.50877521,-34.66977709,auto,pasajeros
 2016-0003,1,2016-01-03,7,avenida,,Entre rios av. 2034,1,-58.39040293,-34.63189362,moto,auto
 2016-0004,1,2016-01-10,0,avenida,"Villegas, conrado, gral.","Larrazabal av. y villegas, conrado, gral.",8,-58.46503904,-34.68092974,moto,
-2016-0005,1,2016-01-21,5,avenida,"Saenz pe?a, luis, pres.","San juan av. y saenz peã‘a, luis, pres.",1,-58.38718297,-34.62246630,moto,pasajeros
+2016-0005,1,2016-01-21,5,avenida,"Saenz pe?a, luis, pres.","San juan av. y saenz peã‘a, luis, pres.",1,-58.38718297,-34.6224663,moto,pasajeros
 2016-0008,1,2016-01-24,18,avenida,Escalada av.,27 de febrero av. y escalada av.,8,-58.44451316,-34.68475866,moto,objeto fijo
-2016-0009,1,2016-01-24,19,calle,"Gonzalez, joaquin v.","Nogoya y gonzalez, joaquin v.",11,-58.50095869,-34.60825440,moto,auto
+2016-0009,1,2016-01-24,19,calle,"Gonzalez, joaquin v.","Nogoya y gonzalez, joaquin v.",11,-58.50095869,-34.6082544,moto,auto
 2016-0010,1,2016-01-29,15,gral paz,De los corrales av.,"Paz, gral. av. y de los corrales av.",9,-58.50877521,-34.66977709,moto,auto
 2016-0012,1,2016-02-08,1,avenida,"Irigoyen, bernardo de","Belgrano av. e irigoyen, bernardo de",1,-58.38048577,-34.61303893,moto,cargas
 2016-0013,1,2016-02-10,11,avenida,,Entre rios av. 1366,1,-58.39114932,-34.62477387,peaton,auto
-2016-0015,1,2016-02-14,5,avenida,Vera,"Scalabrini ortiz, raul av. y vera",15,-58.43760020,-34.59912758,peaton,auto
+2016-0015,1,2016-02-14,5,avenida,Vera,"Scalabrini ortiz, raul av. y vera",15,-58.4376002,-34.59912758,peaton,auto
 2016-0016,1,2016-02-14,22,avenida,"Quinquela martin, benito","Regimiento de patricios av. y quinquela martin, benito",4,-58.36882665,-34.64291993,moto,auto
 2016-0017,1,2016-02-15,16,avenida,"Janer, ana maria","Acosta, mariano y janer, ana maria",8,-58.44989671,-34.65970435,peaton,moto
 2016-0019,1,2016-02-17,9,calle,"Garcia grande de zequeira, severo","De la torre, lisandro y garcia grande de zequeira, severo",9,-58.50990884,-34.65468721,peaton,pasajeros
@@ -27,18 +27,18 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0036,1,2016-03-14,0,calle,"Valle, aristobulo del","Herrera y valle, aristobulo del",4,-58.37813396,-34.63668504,moto,pasajeros
 2016-0037,1,2016-03-19,11,avenida,Quirno,Lafuente av. y quirno,7,-58.46275892,-34.64358293,moto,moto
 2016-0038,1,2016-03-21,8,gral paz,Zuviria,"Paz, gral. av. y zuviria",8,-58.49683458,-34.67892743,peaton,pasajeros
-2016-0039,1,2016-03-23,1,avenida,Pueyrredon av.,"Mitre, bartolome y pueyrredon av.",3,-58.40603217,-34.60883960,moto,pasajeros
-2016-0041,2,2016-03-29,11,avenida,Rivera indarte av.,Directorio av. y rivera indarte av.,7,-58.46076550,-34.63350444,moto,cargas
+2016-0039,1,2016-03-23,1,avenida,Pueyrredon av.,"Mitre, bartolome y pueyrredon av.",3,-58.40603217,-34.6088396,moto,pasajeros
+2016-0041,2,2016-03-29,11,avenida,Rivera indarte av.,Directorio av. y rivera indarte av.,7,-58.4607655,-34.63350444,moto,cargas
 2016-0043,1,2016-03-30,18,avenida,Murguiondo,"Dellepiane, luis, tte. gral. y murguiondo",8,-58.47832463,-34.67494416,peaton,cargas
 2016-0044,1,2016-03-31,19,avenida,Balbastro,"Moreno, jose maria av. y balbastro",7,-58.43213235,-34.63693953,moto,multiple
 2016-0045,1,2016-04-11,10,gral paz,Del libertador av.,"Paz, gral. av. y del libertador av.",13,-58.46743471,-34.53476874,moto,
 2016-0047,1,2016-04-15,5,calle,,Lima 1483,1,-58.38247061,-34.62571878,peaton,pasajeros
-2016-0048,1,2016-04-15,17,avenida,Dorrego av.,Corrientes av. y dorrego av.,15,-58.44759966,-34.59170240,peaton,pasajeros
+2016-0048,1,2016-04-15,17,avenida,Dorrego av.,Corrientes av. y dorrego av.,15,-58.44759966,-34.5917024,peaton,pasajeros
 2016-0049,1,2016-04-17,0,autopista,,Autopista 1 sur presidente arturo frondizi,4,-58.37714647568196,-34.63657525428238,,
 2016-0050,1,2016-04-19,9,avenida,"Fernandez de la cruz, f., gral. av.","Gordillo, timoteo y fernandez de la cruz, f., gral. av.",8,-58.47305463,-34.68550712,peaton,pasajeros
 2016-0051,1,2016-04-20,4,avenida,"Bonavena, oscar natalio","Alcorta, amancio av. y bonavena, oscar natalio",4,-58.40623949,-34.65076549,moto,cargas
 2016-0052,1,2016-04-20,20,autopista,,Autopista lugones pk 10000,13,,,moto,
-2016-0053,1,2016-04-22,9,avenida,Olazabal av.,Triunvirato av. y olazabal av.,12,-58.48429180,-34.57558053,peaton,pasajeros
+2016-0053,1,2016-04-22,9,avenida,Olazabal av.,Triunvirato av. y olazabal av.,12,-58.4842918,-34.57558053,peaton,pasajeros
 2016-0054,1,2016-04-23,21,autopista,"Paz, gral. av.","Autopista dellepiane luis tte. gral. y paz, gral. av.",8,-58.48695354,-34.68795245,moto,moto
 2016-0055,1,2016-04-25,20,avenida,"Figueroa alcorta, pres. av.","Castilla, ramon, mariscal y figueroa alcorta, pres. av.",14,-58.40021959,-34.57964781,peaton,cargas
 2016-0056,1,2016-04-26,4,avenida,,"Campos, luis m. av. 30",14,-58.42957885,-34.57660058,moto,objeto fijo
@@ -46,32 +46,32 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0059,1,2016-05-08,16,calle,Lima,Ciudadela y lima,1,-58.38222219,-34.62728101,peaton,pasajeros
 2016-0064,1,2016-05-14,18,avenida,Carrasco av.,"Justo, juan b. av. y carrasco av.",10,-58.49485242,-34.62953445,peaton,pasajeros
 2016-0065,1,2016-05-20,14,avenida,Espinosa,Gaona av. y espinosa,6,-58.45227946,-34.61068024,peaton,auto
-2016-0067,1,2016-05-21,17,avenida,Saraza,"De la torre, lisandro y saraza",8,-58.48455411,-34.67512760,moto,pasajeros
+2016-0067,1,2016-05-21,17,avenida,Saraza,"De la torre, lisandro y saraza",8,-58.48455411,-34.6751276,moto,pasajeros
 2016-0068,1,2016-05-22,22,avenida,Pueyrredon av.,"Figueroa alcorta, pres. av. y pueyrredon av.",2,-58.39056593,-34.58418569,moto,pasajeros
 2016-0069,1,2016-05-23,3,avenida,Filiberto,Entre rios av. y filiberto,3,-58.39118948,-34.62704273,auto,cargas
 2016-0073,1,2016-06-11,15,calle,,"Magariã‘os cervantes, a. 3900",10,-58.49021952,-34.62025108,moto,cargas
 2016-0074,1,2016-06-12,6,gral paz,"Scapino, rodolfo","Paz, gral. av. y scapino, rodolfo",8,-58.49896559,-34.67732118,auto,auto
 2016-0075,1,2016-06-12,23,autopista,Miralla,Autopista dellepiane luis tte. gral. y miralla,8,-58.47461076,-34.66874679,peaton,auto
 2016-0076,1,2016-06-13,16,avenida,Camarones,San martin av. y camarones,15,-58.46210891,-34.60356211,peaton,pasajeros
-2016-0077,1,2016-06-13,21,avenida,"Alem, leandro n. av.","Peron, juan domingo, tte. general y alem, leandro n. av.",1,-58.37027770,-34.60536123,peaton,pasajeros
-2016-0078,1,2016-06-13,23,avenida,Jujuy av.,Belgrano av. y jujuy av.,3,-58.40491455,-34.61463830,moto,moto
+2016-0077,1,2016-06-13,21,avenida,"Alem, leandro n. av.","Peron, juan domingo, tte. general y alem, leandro n. av.",1,-58.3702777,-34.60536123,peaton,pasajeros
+2016-0078,1,2016-06-13,23,avenida,Jujuy av.,Belgrano av. y jujuy av.,3,-58.40491455,-34.6146383,moto,moto
 2016-0079,1,2016-06-16,17,avenida,"Udaondo, guillermo av.","Del libertador av. y udaondo, guillermo av.",13,-58.45504154,-34.54864492,auto,auto
 2016-0080,1,2016-06-18,6,gral paz,Rivadavia av.,"Paz, gral. av. y rivadavia av.",9,-58.52927982,-34.63931752,auto,
-2016-0081,1,2016-06-22,7,avenida,Machain,"Larralde, crisologo av. y machain",12,-58.48721060,-34.55904606,moto,auto
+2016-0081,1,2016-06-22,7,avenida,Machain,"Larralde, crisologo av. y machain",12,-58.4872106,-34.55904606,moto,auto
 2016-0082,1,2016-06-27,18,avenida,,La plata av. 2384,4,-58.42273092,-34.64228803,peaton,auto
 2016-0083,1,2016-06-28,20,avenida,Puan,"Alberdi, juan bautista av. y puan",6,-58.44788671,-34.62539009,peaton,moto
 2016-0084,1,2016-06-29,22,calle,Tucuman,"Pellegrini, carlos y tucuman",1,-58.38110563,-34.60135531,peaton,pasajeros
-2016-0085,1,2016-06-29,22,avenida,Erezcano,"Rabanal, francisco, intendente av. y erezcano",4,-58.42378834,-34.65734100,moto,otro
+2016-0085,1,2016-06-29,22,avenida,Erezcano,"Rabanal, francisco, intendente av. y erezcano",4,-58.42378834,-34.657341,moto,otro
 2016-0086,1,2016-06-30,16,avenida,"Falcon, ramon l.,cnel.","Olivera av. y falcon, ramon l.,cnel.",10,-58.48727942,-34.63652467,peaton,pasajeros
-2016-0087,1,2016-07-03,0,autopista,,Autopista 1 sur presidente arturo frondizi y caseros av.,1,-58.37864583,-34.62907067,moto,objeto fijo
-2016-0088,1,2016-07-11,15,calle,Nu?ez,Ceretti y nuã‘ez,12,-58.50151750,-34.56767549,peaton,auto
+2016-0087,1,2016-07-02,0,autopista,,Autopista 1 sur presidente arturo frondizi y caseros av.,1,-58.37864583,-34.62907067,moto,objeto fijo
+2016-0088,1,2016-07-11,15,calle,Nu?ez,Ceretti y nuã‘ez,12,-58.5015175,-34.56767549,peaton,auto
 2016-0089,1,2016-07-14,6,autopista,La pampa,"Lugones, leopoldo av. y la pampa",13,-58.43233425,-34.55185825,peaton,auto
-2016-0090,1,2016-07-14,22,avenida,Rivadavia av.,"Salguero, jeronimo y rivadavia av.",5,-58.41971993,-34.61112240,peaton,pasajeros
+2016-0090,1,2016-07-14,22,avenida,Rivadavia av.,"Salguero, jeronimo y rivadavia av.",5,-58.41971993,-34.6111224,peaton,pasajeros
 2016-0092,1,2016-07-15,11,gral paz,Del libertador av.,"Paz, gral. av. y del libertador av.",13,-58.46743471,-34.53476874,moto,cargas
 2016-0093,1,2016-07-17,3,avenida,"Mitre, emilio","Alberdi, juan bautista av. y mitre, emilio",6,-58.44362126,-34.62301748,auto,auto
 2016-0095,1,2016-07-23,6,avenida,Mosconi general av.,Mercedes y mosconi general av.,11,-58.51713095,-34.59546519,moto,auto
 2016-0096,1,2016-07-25,7,autopista,,Autopista dellepiane luis tte. gral.,8,-58.47433193007387,-34.66684950051973,moto,cargas
-2016-0097,1,2016-07-26,18,calle,Mexico,Solis y mexico,1,-58.39038605,-34.61562810,peaton,auto
+2016-0097,1,2016-07-26,18,calle,Mexico,Solis y mexico,1,-58.39038605,-34.6156281,peaton,auto
 2016-0098,1,2016-07-27,16,avenida,Alberti,San juan av. y alberti,3,-58.40042405,-34.62356174,moto,cargas
 2016-0099,1,2016-07-29,16,gral paz,"Paz, gral. av.","Mosconi general av. y paz, gral. av.",11,-58.52340614,-34.59798754,cargas,cargas
 2016-0100,1,2016-08-03,23,gral paz,Donado,"Paz, gral. av. y donado",12,-58.49491054,-34.54795581,moto,objeto fijo
@@ -82,7 +82,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0106,1,2016-08-19,21,avenida,Del libertador av.,"Pellegrini, carlos y del libertador av.",1,-58.38090932,-34.58927731,peaton,pasajeros
 2016-0107,1,2016-08-20,8,autopista,,Autopista 1 sur presidente arturo frondizi y don pedro de mendoza av.,4,-58.37157668,-34.65429986,moto,auto
 2016-0109,1,2016-08-24,5,autopista,Barragan,Autopista perito moreno y barragan,9,-58.52280139,-34.63659934,auto,objeto fijo
-2016-0110,1,2016-08-24,20,avenida,Carhue,"Alberdi, juan bautista av. y carhue",9,-58.51232237,-34.65903530,peaton,
+2016-0110,1,2016-08-24,20,avenida,Carhue,"Alberdi, juan bautista av. y carhue",9,-58.51232237,-34.6590353,peaton,
 2016-0111,1,2016-08-25,9,autopista,La pampa,Lugones y la pampa,15,-58.47461905,-34.57663634,moto,cargas
 2016-0112,1,2016-08-27,4,autopista,Autopista 1 sur presidente arturo frondizi,Autopista 25 de mayo y autopista 1 sur presidente arturo frondizi,1,-58.38268809,-34.62282019,moto,objeto fijo
 2016-0113,1,2016-08-27,16,avenida,Guardia nacional,"Alberdi, juan bautista av. y guardia nacional",9,-58.49603546,-34.64564271,peaton,pasajeros
@@ -98,16 +98,16 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0125,1,2016-09-17,12,autopista,"Alberdi, juan bautista av.","Autopista perito moreno y alberdi, juan bautista av.",10,-58.49020869,-34.64243791,moto,moto
 2016-0126,2,2016-09-18,22,calle,Tinogasta,Irigoyen y tinogasta,10,-58.52572109,-34.62125906,auto,cargas
 2016-0127,1,2016-09-24,10,avenida,"Roca, cnel. av.","Acosta, mariano y roca, cnel. av.",8,-58.44094791,-34.66677111,peaton,pasajeros
-2016-0128,1,2016-10-02,11,avenida,Pavon av.,Castro y pavon av.,5,-58.41914024,-34.63053890,peaton,pasajeros
+2016-0128,1,2016-10-02,11,avenida,Pavon av.,Castro y pavon av.,5,-58.41914024,-34.6305389,peaton,pasajeros
 2016-0130,1,2016-10-04,12,autopista,,Autopista 1 sur presidente arturo frondizi y brasil,1,-58.37910942,-34.62764717,moto,cargas
 2016-0131,1,2016-10-09,19,calle,,Mirave 3500,4,-58.39871183,-34.64539318,peaton,auto
 2016-0132,1,2016-10-10,2,avenida,24 de noviembre,San juan av. y 24 de noviembre,3,-58.41036975,-34.62477021,auto,pasajeros
-2016-0133,1,2016-10-14,0,avenida,Sanchez de bustamante,Las heras general av. y sanchez de bustamante,14,-58.40204698,-34.58342690,moto,auto
+2016-0133,1,2016-10-14,0,avenida,Sanchez de bustamante,Las heras general av. y sanchez de bustamante,14,-58.40204698,-34.5834269,moto,auto
 2016-0134,1,2016-10-23,5,avenida,2 de abril de 1982,Piedra buena av. y 2 de abril de 1982,8,-58.48935287,-34.67648597,moto,objeto fijo
 2016-0135,1,2016-10-24,5,avenida,"Pinedo, int.","Figueroa alcorta, pres. av. y pinedo, int.",14,-58.42260225,-34.56403694,peaton,
 2016-0136,1,2016-10-25,0,autopista,,Au buenos aires - la plata km. 4,4,,,moto,cargas
 2016-0137,1,2016-10-25,0,avenida,Ladines,San martin av. y ladines,11,-58.51537091,-34.59035925,moto,moto
-2016-0138,1,2016-10-27,20,avenida,Blanco encalada,Cabildo av. y blanco encalada,13,-58.45909670,-34.55922742,bicicleta,cargas
+2016-0138,1,2016-10-27,20,avenida,Blanco encalada,Cabildo av. y blanco encalada,13,-58.4590967,-34.55922742,bicicleta,cargas
 2016-0139,1,2016-10-28,23,avenida,Dorrego av.,"Figueroa alcorta, pres. av. y dorrego av.",14,-58.42008769,-34.56539579,moto,moto
 2016-0140,1,2016-10-31,2,avenida,Vuelta de obligado,Juramento av. y vuelta de obligado,13,-58.45566399,-34.56147293,pasajeros,pasajeros
 2016-0142,1,2016-11-05,23,avenida,"Ramos mejia, jose maria, dr. av.","Del libertador av. y ramos mejia, jose maria, dr. av.",1,-58.37533517,-34.59276462,moto,pasajeros
@@ -120,7 +120,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0150,1,2016-11-18,18,avenida,"Taborda, diogenes","Alcorta, amancio av. y taborda, diogenes",4,-58.40879146,-34.65273216,cargas,cargas
 2016-0151,1,2016-11-18,20,calle,,,0,,,peaton,
 2016-0152,1,2016-11-23,21,avenida,Zuviria,"Moreno, perito av. y zuviria",7,-58.46451841,-34.64991946,moto,auto
-2016-0153,1,2016-11-25,15,avenida,Cordoba av.,Araoz y cordoba av.,15,-58.42917090,-34.59485488,peaton,moto
+2016-0153,1,2016-11-25,15,avenida,Cordoba av.,Araoz y cordoba av.,15,-58.4291709,-34.59485488,peaton,moto
 2016-0154,1,2016-11-26,14,gral paz,,"Paz, gral. av. 15200",8,-58.49007772,-34.68251141,moto,moto
 2016-0155,1,2016-11-26,16,calle,,Madero 900,10,-58.52756365,-34.62772274,peaton,auto
 2016-0156,1,2016-11-26,19,avenida,Dean funes,Independencia av. y dean funes,3,-58.40638983,-34.61943202,moto,pasajeros
@@ -134,7 +134,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0165,1,2016-12-12,8,avenida,,"Garcia, martin av. 300",4,-58.36926144,-34.62841919,bicicleta,pasajeros
 2016-0168,1,2016-12-13,10,avenida,"Pomar, gregorio tte. cnel.","La plata av. y pomar, gregorio tte. cnel.",4,-58.42323628,-34.64119105,moto,auto
 2016-0169,1,2016-12-15,15,avenida,"Balbin, ricardo, dr. av.","Nuã‘ez y balbin, ricardo, dr. av.",12,-58.47935434,-34.55676497,moto,pasajeros
-2016-0170,1,2016-12-19,17,gral paz,,"Paz, gral. av. 4500",12,-58.50598256,-34.56379980,moto,auto
+2016-0170,1,2016-12-19,17,gral paz,,"Paz, gral. av. 4500",12,-58.50598256,-34.5637998,moto,auto
 2016-0171,1,2016-12-25,19,autopista,Autopista 25 de mayo,"Huergo, ing. av. y autopista 25 de mayo",1,-58.36607137,-34.62150748,moto,moto
 2016-0172,1,2016-12-26,8,avenida,Castro,"Garay, juan de av. y castro",5,-58.41918902,-34.63174259,moto,cargas
 2016-0173,1,2016-12-26,19,avenida,San pedrito av.,Directorio av. y san pedrito av.,7,-58.46749188,-34.63551751,moto,cargas
@@ -143,29 +143,29 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2016-0176,1,2016-12-28,1,avenida,Paseo colon av.,Belgrano av. y paseo colon av.,1,-58.36956186,-34.61232875,moto,pasajeros
 2016-0177,1,2016-12-29,4,calle,,Arenales 3319,14,-58.40966671,-34.58788235,peaton,auto
 2016-0178,1,2016-12-30,16,calle,Saavedra,Republica bolivariana de venezuela y saavedra,3,-58.40288226,-34.61544091,peaton,multiple
-2017-0001,1,2017-01-02,1,avenida,Achupallas,"Justo, juan b. av. y achupallas",11,-58.46594230,-34.61028571,moto,cargas
+2017-0001,1,2017-01-02,1,avenida,Achupallas,"Justo, juan b. av. y achupallas",11,-58.4659423,-34.61028571,moto,cargas
 2017-0003,1,2017-01-05,3,avenida,Velez sarsfield av.,Olavarria y velez sarsfield av.,4,-58.38957669,-34.64410277,cargas,cargas
-2017-0007,1,2017-01-11,17,calle,Mexico,Lima y mexico,1,-58.38161660,-34.61529543,peaton,multiple
+2017-0007,1,2017-01-11,17,calle,Mexico,Lima y mexico,1,-58.3816166,-34.61529543,peaton,multiple
 2017-0008,1,2017-01-16,0,calle,Bonpland,"Cabrera, jose a. y bonpland",14,-58.43917004,-34.58494351,moto,pasajeros
 2017-0009,1,2017-01-16,13,autopista,,Autopista 25 de mayo y boedo av.,5,-58.41595919,-34.62743346,moto,cargas
-2017-0010,1,2017-01-16,16,avenida,Riglos,Directorio av. y riglos,6,-58.43564880,-34.62828656,moto,auto
-2017-0011,1,2017-01-22,2,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.50073810,-34.54979510,moto,objeto fijo
-2017-0012,1,2017-01-24,14,calle,"Taborda, diogenes","Traful y taborda, diogenes",4,-58.40969005,-34.65055290,moto,cargas
+2017-0010,1,2017-01-16,16,avenida,Riglos,Directorio av. y riglos,6,-58.4356488,-34.62828656,moto,auto
+2017-0011,1,2017-01-22,2,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.5007381,-34.5497951,moto,objeto fijo
+2017-0012,1,2017-01-24,14,calle,"Taborda, diogenes","Traful y taborda, diogenes",4,-58.40969005,-34.6505529,moto,cargas
 2017-0013,1,2017-01-27,7,avenida,,"Iriarte, gral. av. 3055",4,-58.38972622,-34.65098981,peaton,cargas
 2017-0014,1,2017-01-28,8,avenida,Arias,Donado y arias,12,-58.49185972,-34.55046754,moto,multiple
 2017-0015,1,2017-02-02,15,avenida,Callao av.,Cordoba av. y callao av.,2,-58.39293417,-34.59963642,peaton,auto
 2017-0016,1,2017-02-03,5,autopista,,Autopista 25 de mayo km. 8.3,1,-58.38099494,-34.62288231,moto,cargas
-2017-0017,1,2017-02-06,8,avenida,Paraguay,"Justo, juan b. av. y paraguay",14,-58.42901200,-34.58095431,moto,auto
+2017-0017,1,2017-02-06,8,avenida,Paraguay,"Justo, juan b. av. y paraguay",14,-58.429012,-34.58095431,moto,auto
 2017-0018,1,2017-02-09,7,gral paz,De los corrales av.,"Paz, gral. av. y de los corrales av.",9,-58.50877521,-34.66977709,moto,auto
 2017-0021,1,2017-02-18,5,calle,Libertad,Sarmiento y libertad,1,-58.38362373,-34.60509972,moto,pasajeros
 2017-0024,1,2017-02-23,20,avenida,,Rivadavia av. 7121,7,-58.46589308,-34.62955795,peaton,pasajeros
-2017-0025,1,2017-02-24,17,avenida,Rivera indarte av.,"Fernandez de la cruz, f., gral. av. y rivera indarte av.",7,-58.43614426,-34.65424640,moto,
+2017-0025,1,2017-02-24,17,avenida,Rivera indarte av.,"Fernandez de la cruz, f., gral. av. y rivera indarte av.",7,-58.43614426,-34.6542464,moto,
 2017-0026,2,2017-02-26,5,avenida,Fournier,"Moreno, perito av. y fournier",4,-58.41842777,-34.64979057,auto,objeto fijo
-2017-0027,1,2017-02-26,21,avenida,,Caseros av. 1429,1,-58.38332245,-34.63193250,peaton,auto
+2017-0027,1,2017-02-26,21,avenida,,Caseros av. 1429,1,-58.38332245,-34.6319325,peaton,auto
 2017-0028,1,2017-02-28,9,avenida,Fragata pres. sarmiento,Gaona av. y fragata pres. sarmiento,6,-58.45475488,-34.61196327,peaton,auto
 2017-0029,1,2017-03-07,2,calle,Tandil,Mozart y tandil,9,-58.48501341,-34.64742455,,auto
 2017-0030,1,2017-03-07,8,avenida,Autopista dellepiane luis tte. gral.,Mozart y autopista dellepiane luis tte. gral.,9,-58.47010988,-34.65872088,auto,pasajeros
-2017-0031,1,2017-03-11,1,calle,Pavon,24 de noviembre y pavon,3,-58.40997560,-34.62873635,auto,objeto fijo
+2017-0031,1,2017-03-11,1,calle,Pavon,24 de noviembre y pavon,3,-58.4099756,-34.62873635,auto,objeto fijo
 2017-0032,1,2017-03-12,5,gral paz,Los cedros,"Paz, gral. av. y los cedros",8,-58.48892175,-34.68359163,auto,auto
 2017-0033,1,2017-03-12,7,gral paz,"Gutierrez, ricardo","Paz, gral. av. y gutierrez, ricardo",11,-58.52466448,-34.60325478,auto,auto
 2017-0034,1,2017-03-13,7,calle,,Godoy cruz 2651,14,-58.42554218,-34.57929036,peaton,auto
@@ -177,7 +177,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2017-0041,1,2017-04-03,23,calle,,"Fernandez moreno, baldomero 2186",7,-58.45485084,-34.63531854,moto,auto
 2017-0042,1,2017-04-10,9,gral paz,,"Lugones, leopoldo av.",14,,,moto,cargas
 2017-0045,1,2017-04-14,6,calle,,Nogoya 5940,10,-58.52449285,-34.62454175,moto,objeto fijo
-2017-0047,1,2017-04-23,6,avenida,Corvalan,Argentina av. y corvalan,8,-58.46713742,-34.67198790,moto,auto
+2017-0047,1,2017-04-23,6,avenida,Corvalan,Argentina av. y corvalan,8,-58.46713742,-34.6719879,moto,auto
 2017-0049,1,2017-04-27,18,avenida,Varela av.,"Fernandez de la cruz, f., gral. av. y varela av.",8,-58.43850413,-34.65554754,peaton,pasajeros
 2017-0050,2,2017-04-28,11,autopista,,Au perito moreno y ramal enlace au1/au6,9,,,moto,cargas
 2017-0051,1,2017-05-01,3,autopista,,Au dellepiane 2400,7,,,auto,auto
@@ -185,7 +185,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2017-0053,1,2017-05-05,20,calle,Villarino,Vieytes y villarino,4,-58.37547846,-34.65326075,moto,cargas
 2017-0054,1,2017-05-07,21,avenida,"Moran, pedro","De los constituyentes av. y moran, pedro",15,-58.48680218,-34.58689719,moto,auto
 2017-0055,1,2017-05-09,8,avenida,,De los constituyentes av. 4900,12,-58.49563989,-34.57962262,auto,auto
-2017-0058,1,2017-05-09,23,avenida,Libertad,Cordoba av. y libertad,1,-58.38403232,-34.59915940,peaton,moto
+2017-0058,1,2017-05-09,23,avenida,Libertad,Cordoba av. y libertad,1,-58.38403232,-34.5991594,peaton,moto
 2017-0059,1,2017-05-11,9,calle,Lima,Brasil y lima,1,-58.38223382,-34.62693865,peaton,pasajeros
 2017-0060,1,2017-05-13,7,avenida,"Fernandez de la cruz, f., gral. av.","Escalada av. y fernandez de la cruz, f., gral. av.",8,-58.45966521,-34.67323292,moto,objeto fijo
 2017-0061,1,2017-05-15,13,avenida,Callao av.,Paraguay y callao av.,2,-58.39303911,-34.59871111,peaton,moto
@@ -194,15 +194,15 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2017-0064,1,2017-05-20,5,calle,"Peron, juan domingo, tte. general","Maipu y peron, juan domingo, tte. general",1,-58.37653284,-34.60582475,cargas,auto
 2017-0065,1,2017-05-22,16,avenida,Herrera,Suarez av. y herrera,4,-58.37709334,-34.64035082,bicicleta,cargas
 2017-0066,1,2017-05-22,18,avenida,Fragata pres. sarmiento,San martin av. y fragata pres. sarmiento,15,-58.46002142,-34.60409469,peaton,pasajeros
-2017-0067,1,2017-05-23,2,avenida,"Moreno, jose maria av.","Directorio av. y moreno, jose maria av.",6,-58.43381970,-34.62801894,moto,cargas
+2017-0067,1,2017-05-23,2,avenida,"Moreno, jose maria av.","Directorio av. y moreno, jose maria av.",6,-58.4338197,-34.62801894,moto,cargas
 2017-0068,1,2017-05-27,19,avenida,,"Rabanal, francisco, intendente av. 2950",8,-58.43580656,-34.66437532,moto,objeto fijo
-2017-0069,1,2017-05-29,14,gral paz,"Schmidl, ulrico","Paz, gral. av. y schmidl, ulrico",9,-58.52173071,-34.65997463,moto,
+2017-0069,1,2017-05-24,14,gral paz,"Schmidl, ulrico","Paz, gral. av. y schmidl, ulrico",9,-58.52173071,-34.65997463,moto,
 2017-0070,1,2017-05-30,13,calle,,Nueva york 3696,11,-58.50791763,-34.59804273,peaton,auto
 2017-0072,1,2017-06-03,23,avenida,Vallejos,De los constituyentes av. y vallejos,12,-58.49175088,-34.58226957,auto,auto
 2017-0073,1,2017-06-04,9,avenida,Ecuador,Corrientes av. y ecuador,3,-58.40781467,-34.60425669,moto,auto
 2017-0074,1,2017-06-04,12,calle,,Casco 133,9,-58.52567073,-34.63787791,,
-2017-0075,1,2017-06-12,22,avenida,9 de julio av.,De mayo av. y 9 de julio av.,1,-58.38154200,-34.60906385,peaton,moto
-2017-0076,1,2017-06-13,14,avenida,Calle 12 (no oficial),"Castillo, ramon s., pres. av. y calle 12 (no oficial)",2,-58.38526125,-34.57805810,peaton,cargas
+2017-0075,1,2017-06-12,22,avenida,9 de julio av.,De mayo av. y 9 de julio av.,1,-58.381542,-34.60906385,peaton,moto
+2017-0076,1,2017-06-13,14,avenida,Calle 12 (no oficial),"Castillo, ramon s., pres. av. y calle 12 (no oficial)",2,-58.38526125,-34.5780581,peaton,cargas
 2017-0077,1,2017-06-17,23,calle,,Fray justo santamaria de oro 1930,14,-58.42934104,-34.58451712,moto,cargas
 2017-0079,1,2017-06-19,16,calle,Dean funes,Mexico y dean funes,3,-58.40657493,-34.61781124,moto,cargas
 2017-0080,1,2017-06-22,10,avenida,Escalada av.,"Alberdi, juan bautista av. y escalada av.",9,-58.49525314,-34.64487785,peaton,cargas
@@ -223,19 +223,19 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2017-0096,1,2017-08-07,19,avenida,Nu?ez,Cabildo av. y nuã‘ez,13,-58.46756026,-34.54972741,peaton,pasajeros
 2017-0098,1,2017-08-08,12,calle,,"Bonifacio, jose 2114",7,-58.45715752,-34.63132912,peaton,auto
 2017-0099,1,2017-08-17,19,avenida,,"Figueroa alcorta, pres. av. 5400",14,-58.42406784,-34.56213916,bicicleta,auto
-2017-0100,1,2017-08-21,7,calle,,Republica bolivariana de venezuela 2135,3,-58.39674470,-34.61512051,moto,objeto fijo
+2017-0100,1,2017-08-21,7,calle,,Republica bolivariana de venezuela 2135,3,-58.3967447,-34.61512051,moto,objeto fijo
 2017-0101,1,2017-08-23,10,avenida,Zapata,"Lacroze, federico av. y zapata",13,-58.44537508,-34.57084818,peaton,multiple
-2017-0102,1,2017-08-24,1,avenida,Zavaleta,"Iriarte, gral. av. y zavaleta",4,-58.40056767,-34.65107080,peaton,cargas
+2017-0102,1,2017-08-24,1,avenida,Zavaleta,"Iriarte, gral. av. y zavaleta",4,-58.40056767,-34.6510708,peaton,cargas
 2017-0104,1,2017-08-25,9,avenida,Estados unidos,9 de julio av. y estados unidos,1,-58.38109568,-34.61853244,peaton,cargas
 2017-0106,1,2017-08-31,19,calle,Guemes,Fray justo santamaria de oro y guemes,14,-58.42533612,-34.58035258,peaton,pasajeros
 2017-0107,1,2017-09-01,11,avenida,Jaramillo,Del libertador av. y jaramillo,13,-58.46062311,-34.54395182,moto,cargas
 2017-0108,2,2017-09-02,4,gral paz,Machain,"Paz, gral. av. y machain",12,-58.49491054,-34.54795581,objeto fijo,auto
 2017-0109,1,2017-09-04,21,avenida,Portela,Directorio av. y portela,7,-58.47130269,-34.63665402,moto,auto
-2017-0110,1,2017-09-06,14,avenida,"Alem, leandro n. av.","Lavalle y alem, leandro n. av.",1,-58.37048800,-34.60189492,peaton,pasajeros
-2017-0111,1,2017-09-07,18,calle,Pirovano,Uspallata y pirovano,4,-58.42023854,-34.64234110,peaton,cargas
-2017-0112,2,2017-09-10,9,autopista,,Autopista 25 de mayo y varela av.,7,-58.45807401,-34.63997430,auto,objeto fijo
+2017-0110,1,2017-09-06,14,avenida,"Alem, leandro n. av.","Lavalle y alem, leandro n. av.",1,-58.370488,-34.60189492,peaton,pasajeros
+2017-0111,1,2017-09-07,18,calle,Pirovano,Uspallata y pirovano,4,-58.42023854,-34.6423411,peaton,cargas
+2017-0112,2,2017-09-10,9,autopista,,Autopista 25 de mayo y varela av.,7,-58.45807401,-34.6399743,auto,objeto fijo
 2017-0113,1,2017-09-11,6,avenida,Maipu,Santa fe av. y maipu,1,-58.37697717,-34.59573848,peaton,pasajeros
-2017-0114,1,2017-09-15,2,avenida,Del libertador av.,Alvear av. y del libertador av.,2,-58.39100580,-34.58498660,auto,objeto fijo
+2017-0114,1,2017-09-15,2,avenida,Del libertador av.,Alvear av. y del libertador av.,2,-58.3910058,-34.5849866,auto,objeto fijo
 2017-0115,1,2017-09-19,18,avenida,Treinta y tres orientales,Pavon av. y treinta y tres orientales,5,-58.42182126,-34.63089661,moto,bicicleta
 2017-0116,1,2017-09-20,22,gral paz,,"Paz, gral. av. 5750",12,-58.51389422,-34.58075791,moto,objeto fijo
 2017-0118,1,2017-09-22,7,avenida,"Cruz, osvaldo av.","Vieytes y cruz, osvaldo av.",4,-58.37585415,-34.65232158,moto,auto
@@ -248,8 +248,8 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2017-0128,1,2017-10-17,12,calle,,"Aranguren, juan f., dr. 611",6,-58.44034689,-34.61349731,peaton,pasajeros
 2017-0129,1,2017-10-26,19,autopista,Autopista 25 de mayo,Autopista perito moreno y autopista 25 de mayo,9,-58.47155277,-34.64925746,moto,pasajeros
 2017-0130,1,2017-10-27,5,avenida,San martin av.,Chorroarin y san martin av.,15,-58.47883099,-34.59967065,auto,cargas
-2017-0132,1,2017-10-30,14,avenida,"Roca, cnel. av.","Cosquin y roca, cnel. av.",8,-58.46552171,-34.69374130,moto,pasajeros
-2017-0134,1,2017-11-06,18,avenida,,"Roca, cnel. av. 3555",8,-58.44239720,-34.66777987,peaton,pasajeros
+2017-0132,1,2017-10-30,14,avenida,"Roca, cnel. av.","Cosquin y roca, cnel. av.",8,-58.46552171,-34.6937413,moto,pasajeros
+2017-0134,1,2017-11-06,18,avenida,,"Roca, cnel. av. 3555",8,-58.4423972,-34.66777987,peaton,pasajeros
 2017-0135,1,2017-11-07,12,avenida,Punta arenas,Warnes av. y punta arenas,15,-58.47032551,-34.59626814,moto,cargas
 2017-0136,1,2017-11-16,8,avenida,"Rabanal, francisco, intendente av.","Barco centenera del y rabanal, francisco, intendente av.",4,-58.41827843,-34.65522746,peaton,pasajeros
 2017-0137,1,2017-11-17,11,avenida,San nicolas,Mosconi general av. y san nicolas,11,-58.51280715,-34.59279388,peaton,cargas
@@ -260,7 +260,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2017-0143,1,2017-11-25,21,calle,"Diaz, cesar, gral.","Trelles, manuel r. y diaz, cesar, gral.",11,-58.46442001,-34.60724519,auto,pasajeros
 2017-0144,1,2017-11-26,6,gral paz,"Paz, gral. av.","Roca, cnel. av. y paz, gral. av.",8,-58.47064556,-34.69843756,auto,objeto fijo
 2017-0145,1,2017-11-26,17,calle,Don bosco,Maza y don bosco,5,-58.41677733,-34.61223119,moto,auto
-2017-0147,1,2017-11-28,11,gral paz,"Peron, eva av.","Paz, gral. av. y peron, eva av.",9,-58.50251790,-34.67450313,moto,auto
+2017-0147,1,2017-11-28,11,gral paz,"Peron, eva av.","Paz, gral. av. y peron, eva av.",9,-58.5025179,-34.67450313,moto,auto
 2017-0148,1,2017-11-29,10,avenida,La rioja,San juan av. y la rioja,3,-58.40708125,-34.62438894,peaton,pasajeros
 2017-0149,1,2017-11-30,12,avenida,Mexico,Paseo colon av. y mexico,1,-58.36947198,-34.61477051,peaton,pasajeros
 2017-0150,1,2017-12-04,1,avenida,Miralla,Rivadavia av. y miralla,9,-58.51140889,-34.63934531,peaton,auto
@@ -298,19 +298,19 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2018-0022,1,2018-02-24,0,avenida,Olavarria,"Montes de oca, manuel av. y olavarria",4,-58.37441153,-34.63966783,moto,cargas
 2018-0023,1,2018-02-24,6,calle,Rosario,Barco centenera del y rosario,6,-58.44110156,-34.62082399,moto,auto
 2018-0024,1,2018-02-28,23,avenida,Donado,Alvarez thomas av. y donado,15,-58.47087351,-34.57827342,peaton,cargas
-2018-0025,1,2018-03-04,22,avenida,Boyaca av.,Avellaneda av. y boyaca av.,7,-58.45962210,-34.62245140,peaton,auto
+2018-0025,1,2018-03-04,22,avenida,Boyaca av.,Avellaneda av. y boyaca av.,7,-58.4596221,-34.6224514,peaton,auto
 2018-0026,2,2018-03-09,4,avenida,Saenz av.,"Rabanal, francisco, intendente av. y saenz av.",4,-58.41657793,-34.65476216,movil,cargas
 2018-0027,1,2018-03-11,23,calle,Rondeau,Castro y rondeau,5,-58.41911301,-34.63722107,peaton,moto
 2018-0028,1,2018-03-13,15,avenida,Azul,"Bilbao, francisco av. y azul",9,-58.47120586,-34.64251042,peaton,cargas
 2018-0029,1,2018-03-15,18,avenida,Gaona av.,Nazca av. y gaona av.,11,-58.47418944,-34.62049672,moto,auto
 2018-0030,1,2018-03-20,1,avenida,Alvarez thomas av.,Plaza y alvarez thomas av.,15,-58.46720441,-34.57905579,moto,moto
-2018-0031,1,2018-03-28,10,avenida,"Artigas, jose gervasio, gral.","Gaona av. y artigas, jose gervasio, gral.",11,-58.46909362,-34.61779710,moto,cargas
-2018-0032,1,2018-04-02,13,avenida,Aguilar,Cabildo av. y aguilar,13,-58.44704343,-34.56888640,peaton,pasajeros
+2018-0031,1,2018-03-28,10,avenida,"Artigas, jose gervasio, gral.","Gaona av. y artigas, jose gervasio, gral.",11,-58.46909362,-34.6177971,moto,cargas
+2018-0032,1,2018-04-02,13,avenida,Aguilar,Cabildo av. y aguilar,13,-58.44704343,-34.5688864,peaton,pasajeros
 2018-0033,1,2018-04-07,7,avenida,Lope de vega av.,Camarones y lope de vega av.,10,-58.50535541,-34.62902048,moto,cargas
 2018-0034,1,2018-04-11,18,avenida,,Santa fe av. 2320,2,-58.40021675,-34.59522198,peaton,pasajeros
 2018-0035,1,2018-04-12,16,avenida,,Rivadavia av. 6950,7,-58.46325991,-34.62919627,peaton,pasajeros
 2018-0036,1,2018-04-13,23,avenida,Argerich,San martin av. y argerich,15,-58.49471482,-34.59694755,moto,auto
-2018-0037,1,2018-04-18,18,avenida,"Uriburu jose e., pres.","Cordoba av. y uriburu jose e., pres.",2,-58.39872610,-34.59975962,peaton,cargas
+2018-0037,1,2018-04-18,18,avenida,"Uriburu jose e., pres.","Cordoba av. y uriburu jose e., pres.",2,-58.3987261,-34.59975962,peaton,cargas
 2018-0038,2,2018-04-20,17,avenida,,Rivadavia av. 1571,1,-58.38872177,-34.60885045,peaton,auto
 2018-0039,1,2018-04-21,22,autopista,,Autopista lugones km 4.7,14,,,peaton,auto
 2018-0040,1,2018-04-27,11,calle,"Olaguer y feliu, virrey","Freire, ramon, cap. gral. y olaguer y feliu, virrey",13,-58.45686132,-34.57305993,peaton,cargas
@@ -318,22 +318,22 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2018-0042,1,2018-04-27,18,calle,Perdriel,Brandsen y perdriel,4,-58.38666024,-34.63953396,moto,cargas
 2018-0043,1,2018-04-28,6,avenida,Alvarez jonte av.,"Vilardebo, teodoro y alvarez jonte av.",11,-58.49122843,-34.61207587,moto,auto
 2018-0044,1,2018-04-28,9,avenida,Independencia av.,Alberti e independencia av.,3,-58.40098306,-34.61866627,peaton,auto
-2018-0045,1,2018-04-30,7,avenida,,Alvarez thomas av. 879,13,-58.45448963,-34.57916920,auto,cargas
+2018-0045,1,2018-04-30,7,avenida,,Alvarez thomas av. 879,13,-58.45448963,-34.5791692,auto,cargas
 2018-0046,1,2018-05-02,3,gral paz,Rivadavia av.,"Paz, gral. av. y rivadavia av.",9,-58.52927982,-34.63931752,peaton,auto
-2018-0047,1,2018-05-08,19,avenida,Dorrego av.,Corrientes av. y dorrego av.,15,-58.44759966,-34.59170240,peaton,pasajeros
+2018-0047,1,2018-05-08,19,avenida,Dorrego av.,Corrientes av. y dorrego av.,15,-58.44759966,-34.5917024,peaton,pasajeros
 2018-0048,1,2018-05-09,10,avenida,Pedernera,Rivadavia av. y pedernera,7,-58.46411215,-34.62925068,peaton,pasajeros
-2018-0049,1,2018-05-11,19,calle,,Quesada 2300,13,-58.46213220,-34.55395823,peaton,auto
-2018-0050,1,2018-05-14,18,avenida,Juramento av.,Cabildo av. y juramento av.,13,-58.45669422,-34.56203610,peaton,pasajeros
-2018-0051,1,2018-05-15,21,calle,"Carbonari, francisco, cmte.","California y carbonari, francisco, cmte.",4,-58.35977160,-34.64341878,peaton,auto
+2018-0049,1,2018-05-11,19,calle,,Quesada 2300,13,-58.4621322,-34.55395823,peaton,auto
+2018-0050,1,2018-05-14,18,avenida,Juramento av.,Cabildo av. y juramento av.,13,-58.45669422,-34.5620361,peaton,pasajeros
+2018-0051,1,2018-05-15,21,calle,"Carbonari, francisco, cmte.","California y carbonari, francisco, cmte.",4,-58.3597716,-34.64341878,peaton,auto
 2018-0052,1,2018-05-18,20,avenida,Nazca,"Carril, salvador maria del av. y nazca",15,-58.49820145,-34.59070093,peaton,pasajeros
-2018-0053,1,2018-05-20,2,calle,Aguero,San luis y aguero,3,-58.41059280,-34.59939180,moto,auto
+2018-0053,1,2018-05-20,2,calle,Aguero,San luis y aguero,3,-58.4105928,-34.5993918,moto,auto
 2018-0054,1,2018-05-22,11,calle,,Lugones 2430,12,-58.47969138,-34.57121563,peaton,bicicleta
 2018-0055,1,2018-05-29,7,avenida,Jujuy av.,Independencia av. y jujuy av.,3,-58.40351561,-34.61883916,moto,auto
 2018-0056,1,2018-06-02,13,avenida,,Rivadavia av. 11050,9,-58.51973844,-34.63918987,peaton,pasajeros
 2018-0057,1,2018-06-03,3,calle,Humberto 1?,Combate de los pozos y humberto 1â°,3,-58.39311376,-34.62163006,moto,pasajeros
 2018-0058,1,2018-06-03,6,avenida,Thames,Cordoba av. y thames,15,-58.43531242,-34.59082159,moto,auto
 2018-0059,1,2018-06-08,6,avenida,Sanchez de loria,"Garay, juan de av. y sanchez de loria",5,-58.41178165,-34.63035454,moto,otro
-2018-0060,1,2018-06-08,12,avenida,"Alem, leandro n. av.","Lavalle y alem, leandro n. av.",1,-58.37048800,-34.60189492,peaton,pasajeros
+2018-0060,1,2018-06-08,12,avenida,"Alem, leandro n. av.","Lavalle y alem, leandro n. av.",1,-58.370488,-34.60189492,peaton,pasajeros
 2018-0061,1,2018-06-10,11,calle,Pichincha,Estados unidos y pichincha,3,-58.39883882,-34.61964833,moto,moto
 2018-0062,1,2018-06-14,1,calle,Barco centenera del,Rosario y barco centenera del,6,-58.44110156,-34.62082399,peaton,cargas
 2018-0063,1,2018-06-16,21,avenida,Viamonte,"Alem, leandro n. av. y viamonte",1,-58.37093138,-34.59952725,peaton,pasajeros
@@ -353,7 +353,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2018-0077,1,2018-07-16,23,calle,Estados unidos,"Urquiza, gral. y estados unidos",3,-58.40917826,-34.62126274,auto,cargas
 2018-0078,1,2018-07-21,6,calle,Sanchez de bustamante,Paraguay y sanchez de bustamante,2,-58.41264127,-34.59473294,peaton,auto
 2018-0079,1,2018-07-23,7,gral paz,"Paz, gral. av.","De los corrales av. y paz, gral. av.",9,-58.50877521,-34.66977709,peaton,cargas
-2018-0080,1,2018-07-25,22,avenida,Carhue,"Alberdi, juan bautista av. y carhue",9,-58.51232237,-34.65903530,peaton,auto
+2018-0080,1,2018-07-25,22,avenida,Carhue,"Alberdi, juan bautista av. y carhue",9,-58.51232237,-34.6590353,peaton,auto
 2018-0081,1,2018-07-29,6,avenida,Rivera indarte av.,Castaã‘ares av. y rivera indarte av.,7,-58.44744156,-34.64567171,peaton,multiple
 2018-0082,1,2018-08-01,15,avenida,"Garzon, eugenio, gral. av.","Larrazabal y garzon, eugenio, gral. av.",9,-58.49441273,-34.65869968,moto,cargas
 2018-0083,1,2018-08-02,5,gral paz,"Fernandez de la cruz, f., gral. av.","Paz, gral. av. y fernandez de la cruz, f., gral. av.",8,-58.47976785,-34.69153196,moto,cargas
@@ -361,26 +361,26 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2018-0085,2,2018-08-03,18,avenida,"Garay, juan de av.","Entre rios av. y garay, juan de av.",3,-58.39118948,-34.62704273,moto,pasajeros
 2018-0086,1,2018-08-10,21,avenida,Guardia nacional,Directorio av. y guardia nacional,9,-58.49019551,-34.65015854,peaton,pasajeros
 2018-0087,1,2018-08-15,19,avenida,Colombres,Pavon av. y colombres,5,-58.41644362,-34.63023775,peaton,pasajeros
-2018-0088,1,2018-08-17,16,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.50073810,-34.54979510,moto,cargas
+2018-0088,1,2018-08-17,16,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.5007381,-34.5497951,moto,cargas
 2018-0089,1,2018-08-17,17,avenida,Brasil,Pichincha av. y brasil,4,-58.39626094,-34.63036565,peaton,pasajeros
 2018-0090,1,2018-08-18,10,avenida,Pergamino,27 de febrero av. y pergamino,8,-58.43284809,-34.67051543,moto,auto
 2018-0091,1,2018-08-19,18,autopista,Barragan,Autopista perito moreno y barragan,9,-58.52280139,-34.63659934,auto,auto
-2018-0092,1,2018-08-20,8,avenida,Gascon,Cordoba av. y gascon,14,-58.42336930,-34.59774487,moto,auto
+2018-0092,1,2018-08-20,8,avenida,Gascon,Cordoba av. y gascon,14,-58.4233693,-34.59774487,moto,auto
 2018-0093,1,2018-08-20,8,calle,,15 de noviembre de 1889 1513,1,-58.38691681,-34.63105973,peaton,pasajeros
-2018-0094,1,2018-08-23,5,calle,Beruti,"Salguero, jeronimo y beruti",14,-58.41169020,-34.58579880,moto,pasajeros
+2018-0094,1,2018-08-23,5,calle,Beruti,"Salguero, jeronimo y beruti",14,-58.4116902,-34.5857988,moto,pasajeros
 2018-0095,1,2018-08-26,0,avenida,"Dellepiane, luis, tte. gral.","Lacarra av. y dellepiane, luis, tte. gral.",9,-58.46739825,-34.65117757,auto,auto
 2018-0096,1,2018-08-31,22,autopista,"Roca, cnel. av.","Autopista presidente hã‰ctor j. cãmpora y roca, cnel. av.",8,-58.44483258,-34.67152226,peaton,auto
 2018-0097,1,2018-09-02,10,avenida,"Rabanal, francisco, intendente av.","Varela av. y rabanal, francisco, intendente av.",8,-58.43254025,-34.66128115,auto,otro
 2018-0098,2,2018-09-09,5,gral paz,Beron de astrada,"Paz, gral. av. y beron de astrada",8,-58.47199387,-34.69640164,auto,auto
 2018-0099,1,2018-09-12,14,avenida,Pedernera,Rivadavia av. y pedernera,7,-58.46411215,-34.62925068,peaton,pasajeros
 2018-0100,1,2018-09-20,10,avenida,,"Rawson de dellepiane, elvira av. 150",1,-58.36217754,-34.62367156,moto,auto
-2018-0101,1,2018-09-21,0,gral paz,Zapiola,"Paz, gral. av. y zapiola",12,-58.48098594,-34.54073130,auto,multiple
+2018-0101,1,2018-09-21,0,gral paz,Zapiola,"Paz, gral. av. y zapiola",12,-58.48098594,-34.5407313,auto,multiple
 2018-0102,1,2018-09-21,0,calle,"Taborda, diogenes","Famatina y taborda, diogenes",4,-58.41083404,-34.64640709,moto,auto
 2018-0103,1,2018-09-27,17,avenida,"Bonorino, esteban, cnel. av.","Castaã‘ares av. y bonorino, esteban, cnel. av.",7,-58.44609828,-34.64446729,peaton,moto
 2018-0104,1,2018-10-01,8,autopista,Suarez av.,Autopista 1 sur presidente arturo frondizi y suarez av.,4,-58.37709334,-34.64035082,moto,moto
 2018-0105,1,2018-10-03,18,avenida,Rivadavia av.,Nazca av. y rivadavia av.,7,-58.46963952,-34.63070603,peaton,pasajeros
 2018-0106,1,2018-10-04,22,avenida,Echeverria,"Figueroa alcorta, pres. av. y echeverria",13,-58.43674281,-34.55161027,moto,moto
-2018-0107,1,2018-10-06,14,avenida,Jujuy av.,Rivadavia av. y jujuy av.,3,-58.40596860,-34.61011987,peaton,pasajeros
+2018-0107,1,2018-10-06,14,avenida,Jujuy av.,Rivadavia av. y jujuy av.,3,-58.4059686,-34.61011987,peaton,pasajeros
 2018-0108,1,2018-10-09,14,avenida,"Guemes, macacha","De los italianos av. y guemes, macacha",1,-58.36154069,-34.60463618,moto,auto
 2018-0109,1,2018-10-10,22,avenida,"Alem, leandro n. av.","Tucuman y alem, leandro n. av.",1,-58.37062179,-34.60066507,peaton,pasajeros
 2018-0110,1,2018-10-13,3,avenida,"Gallardo, angel av.","Corrientes av. y gallardo, angel av.",15,-58.43220014,-34.60207186,peaton,moto
@@ -394,9 +394,9 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2018-0118,1,2018-11-05,14,avenida,Pueyrredon av.,"Peron, juan domingo, tte. general y pueyrredon av.",3,-58.40612253,-34.60774301,peaton,moto
 2018-0119,1,2018-11-05,22,avenida,San pedrito,"Rabanal, francisco, intendente av. y san pedrito",8,-58.43613623,-34.66292532,peaton,
 2018-0120,1,2018-11-09,13,avenida,Alvarez thomas av.,Monroe y alvarez thomas av.,12,-58.48250732,-34.57208238,peaton,auto
-2018-0121,1,2018-11-09,16,avenida,Manzoni,Rivadavia av. y manzoni,10,-58.49945705,-34.63743280,peaton,pasajeros
+2018-0121,1,2018-11-09,16,avenida,Manzoni,Rivadavia av. y manzoni,10,-58.49945705,-34.6374328,peaton,pasajeros
 2018-0122,1,2018-11-12,1,autopista,Larrazabal,Autopista dellepiane luis tte. gral. y larrazabal,8,-58.47743966,-34.67233407,auto,auto
-2018-0123,1,2018-11-12,3,gral paz,"Peron, eva av.","Paz, gral. av. y peron, eva av.",9,-58.50251790,-34.67450313,auto,
+2018-0123,1,2018-11-12,3,gral paz,"Peron, eva av.","Paz, gral. av. y peron, eva av.",9,-58.5025179,-34.67450313,auto,
 2018-0124,1,2018-11-15,19,autopista,,Autopista perito moreno y reservistas argentinos,9,-58.52144411,-34.63682499,cargas,cargas
 2018-0125,1,2018-11-16,21,avenida,Ventana,Saenz av. y ventana,4,-58.41650465,-34.65084045,peaton,pasajeros
 2018-0126,1,2018-11-18,12,gral paz,"Falcon, ramon l.,cnel.","Paz, gral. av. y falcon, ramon l.,cnel.",9,-58.52994219,-34.64055918,moto,auto
@@ -413,23 +413,23 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2018-0137,1,2018-12-18,20,calle,Santiago del estero,"Alsina, adolfo y santiago del estero",1,-58.38481975,-34.61100424,moto,pasajeros
 2018-0138,1,2018-12-21,9,calle,,Bermudez 1893,10,-58.50751833,-34.62073702,pasajeros,pasajeros
 2018-0139,1,2018-12-22,6,calle,,Santander 1974,7,-58.44682986,-34.63888084,moto,moto
-2018-0140,1,2018-12-22,8,calle,,Lanteri julieta 1400,1,-58.36004650,-34.61381341,auto,auto
+2018-0140,1,2018-12-22,8,calle,,Lanteri julieta 1400,1,-58.3600465,-34.61381341,auto,auto
 2018-0141,1,2018-12-22,17,avenida,Independencia av.,Maza e independencia av.,5,-58.41509546,-34.62085945,peaton,moto
 2018-0142,1,2018-12-25,13,gral paz,,"Paz, gral. av. 5172",12,-58.50997604,-34.57251072,cargas,pasajeros
 2018-0143,1,2018-12-29,5,avenida,"Alberdi, juan bautista av.","Olivera av. y alberdi, juan bautista av.",10,-58.48606475,-34.64047818,moto,auto
-2019-0001,1,2019-01-08,8,avenida,Calle 12 (no oficial),"Castillo, ramon s., pres. av. y calle 12 (no oficial)",2,-58.38526125,-34.57805810,moto,cargas
+2019-0001,1,2019-01-08,8,avenida,Calle 12 (no oficial),"Castillo, ramon s., pres. av. y calle 12 (no oficial)",2,-58.38526125,-34.5780581,moto,cargas
 2019-0002,1,2019-01-09,4,avenida,"Moreno, perito av.","Castaã‘ares av. y moreno, perito av.",7,-58.45463662,-34.65082149,auto,cargas
 2019-0003,1,2019-01-12,8,avenida,Terrada,San martin av. y terrada,15,-58.49121672,-34.59718073,moto,auto
 2019-0004,1,2019-01-14,19,avenida,Medina,"Peron, eva av. y medina",9,-58.47325712,-34.65284605,auto,pasajeros
 2019-0005,1,2019-01-19,12,avenida,Alvarez jonte av.,"Justo, juan b. av. y alvarez jonte av.",10,-58.52108101,-34.63382309,moto,cargas
 2019-0006,1,2019-01-23,5,avenida,,"Obligado rafael, av.costanera 4650",14,-58.41652702,-34.55509606,peaton,auto
-2019-0007,1,2019-01-26,19,calle,Yatay,"Mitre, bartolome y yatay",5,-58.42891604,-34.61071660,moto,auto
+2019-0007,1,2019-01-26,19,calle,Yatay,"Mitre, bartolome y yatay",5,-58.42891604,-34.6107166,moto,auto
 2019-0008,1,2019-01-30,22,gral paz,,"Paz, gral. av. 16080",8,-58.47802293,-34.69156793,moto,multiple
 2019-0009,1,2019-01-31,14,avenida,San juan av.,Chacabuco y san juan av.,1,-58.37564821,-34.62200207,moto,auto
 2019-0010,2,2019-02-02,7,avenida,,Del libertador av. 4100,14,-58.42668489,-34.56961468,peaton,auto
-2019-0011,1,2019-02-10,1,gral paz,"Alberdi, juan bautista av.","Paz, gral. av. y alberdi, juan bautista av.",9,-58.51839930,-34.66252488,peaton,auto
+2019-0011,1,2019-02-10,1,gral paz,"Alberdi, juan bautista av.","Paz, gral. av. y alberdi, juan bautista av.",9,-58.5183993,-34.66252488,peaton,auto
 2019-0012,1,2019-02-17,3,avenida,"Gordillo, timoteo","Castaã‘ares av. y gordillo, timoteo",8,-58.48432691,-34.67665828,moto,auto
-2019-0013,1,2019-02-20,7,calle,Mom,Salvigny y mom,7,-58.43383830,-34.64457699,peaton,auto
+2019-0013,1,2019-02-20,7,calle,Mom,Salvigny y mom,7,-58.4338383,-34.64457699,peaton,auto
 2019-0014,1,2019-02-20,17,calle,,"Lamarca, emilio 5402",11,-58.51664939,-34.58657938,moto,objeto fijo
 2019-0015,1,2019-02-23,6,avenida,,San martin av. 5638,11,-58.49613012,-34.59703502,auto,objeto fijo
 2019-0016,1,2019-02-24,2,calle,Finochietto enrique dr.,"Carrillo, ramon, dr. y finochietto enrique dr.",4,-58.38313603,-34.63356284,moto,pasajeros
@@ -448,15 +448,15 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2019-0029,1,2019-04-07,10,avenida,"Paz, gral. av.","Fernandez de la cruz, f., gral. av. y paz, gral. av.",8,-58.47976785,-34.69153196,moto,objeto fijo
 2019-0030,1,2019-04-09,16,calle,Yerbal,"Alvarez, donato, tte. gral. y yerbal",7,-58.45457546,-34.62447891,moto,cargas
 2019-0031,1,2019-04-12,19,avenida,"Madero, eduardo av.","Cordoba av. y madero, eduardo av.",1,-58.36951669,-34.59832047,bicicleta,cargas
-2019-0032,1,2019-04-16,11,avenida,"Alvarez, donato, tte. gral. av.","Camarones y alvarez, donato, tte. gral. av.",11,-58.46415322,-34.60443790,peaton,auto
+2019-0032,1,2019-04-16,11,avenida,"Alvarez, donato, tte. gral. av.","Camarones y alvarez, donato, tte. gral. av.",11,-58.46415322,-34.6044379,peaton,auto
 2019-0033,1,2019-04-18,1,autopista,"Huergo, ing. av.","Autopista 25 de mayo y huergo, ing. av.",1,-58.36607137,-34.62150748,moto,
 2019-0034,1,2019-04-21,9,avenida,,"Moreno, perito av. 3050",7,-58.45537373,-34.65093074,moto,objeto fijo
 2019-0035,1,2019-04-23,14,calle,,Suipacha 665,1,-58.37942637,-34.60053054,peaton,bicicleta
-2019-0036,1,2019-04-26,22,calle,Formosa,Riglos y formosa,6,-58.43680440,-34.62147504,moto,auto
+2019-0036,1,2019-04-26,22,calle,Formosa,Riglos y formosa,6,-58.4368044,-34.62147504,moto,auto
 2019-0037,1,2019-05-01,23,avenida,Independencia av.,La rioja e independencia av.,3,-58.40778291,-34.61971907,moto,auto
 2019-0038,1,2019-05-04,14,avenida,"Figueroa alcorta, pres. av.","Udaondo, guillermo av. y figueroa alcorta, pres. av.",13,-58.45212523,-34.54628513,peaton,moto
 2019-0039,1,2019-05-09,3,avenida,Directorio av.,San pedrito av. y directorio av.,7,-58.46749188,-34.63551751,moto,auto
-2019-0040,1,2019-05-09,12,calle,Santander,Puan y santander,7,-58.44263580,-34.63679732,moto,
+2019-0040,1,2019-05-09,12,calle,Santander,Puan y santander,7,-58.4426358,-34.63679732,moto,
 2019-0041,1,2019-05-11,20,avenida,Andalgala,"Alberdi, juan bautista av. y andalgala",9,-58.51140289,-34.65846419,auto,multiple
 2019-0042,1,2019-05-14,15,calle,Constitucion,Lima y constitucion,1,-58.38211431,-34.62465368,peaton,pasajeros
 2019-0043,1,2019-05-21,9,avenida,"Madero, eduardo av.","Cordoba av. y madero, eduardo av.",1,-58.36951669,-34.59832047,bicicleta,cargas
@@ -474,34 +474,34 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2019-0056,1,2019-06-29,17,avenida,,Boyaca av. 305,7,-58.45877601,-34.62330939,peaton,auto
 2019-0057,1,2019-07-05,19,calle,La pampa,Artilleros y la pampa,13,-58.44196498,-34.55760517,peaton,auto
 2019-0058,1,2019-07-10,9,autopista,,Autopista perito moreno e irigoyen,10,-58.50622631,-34.63627822,moto,pasajeros
-2019-0059,1,2019-07-13,22,calle,Santiago del estero,15 de noviembre de 1889 y santiago del estero,1,-58.38410880,-34.63099197,moto,pasajeros
+2019-0059,1,2019-07-13,22,calle,Santiago del estero,15 de noviembre de 1889 y santiago del estero,1,-58.3841088,-34.63099197,moto,pasajeros
 2019-0060,1,2019-07-17,11,avenida,"Falcon, ramon l.,cnel.","Acosta, mariano av. y falcon, ramon l.,cnel.",10,-58.48100602,-34.63504312,peaton,auto
-2019-0061,1,2019-07-17,18,calle,Mendoza,11 de septiembre de 1888 y mendoza,13,-58.45200171,-34.55781320,peaton,pasajeros
+2019-0061,1,2019-07-17,18,calle,Mendoza,11 de septiembre de 1888 y mendoza,13,-58.45200171,-34.5578132,peaton,pasajeros
 2019-0062,1,2019-08-01,23,avenida,"Campos, luis m. av.","Pino, virrey del y campos, luis m. av.",13,-58.44462132,-34.56201105,peaton,pasajeros
 2019-0063,1,2019-08-04,1,avenida,Maure,Forest av. y maure,15,-58.45220688,-34.58711712,moto,pasajeros
-2019-0064,1,2019-08-06,3,avenida,Avellaneda av.,Boyaca av. y avellaneda av.,7,-58.45962210,-34.62245140,moto,auto
-2019-0065,1,2019-08-08,16,calle,Tilcara,Barco centenera del y tilcara,4,-58.41970850,-34.65414867,peaton,pasajeros
+2019-0064,1,2019-08-06,3,avenida,Avellaneda av.,Boyaca av. y avellaneda av.,7,-58.4596221,-34.6224514,moto,auto
+2019-0065,1,2019-08-08,16,calle,Tilcara,Barco centenera del y tilcara,4,-58.4197085,-34.65414867,peaton,pasajeros
 2019-0066,1,2019-08-11,21,avenida,Bolivar (no oficial),Riestra av. y bolivar (no oficial),7,-58.44187596,-34.64938031,peaton,auto
 2019-0067,1,2019-08-14,15,calle,,"Castro, emilio 4706",10,-58.49101637,-34.64276621,moto,cargas
 2019-0068,1,2019-08-14,17,avenida,,27 de febrero av. 5600,8,-58.42493829,-34.66256502,moto,moto
 2019-0069,1,2019-08-17,5,avenida,,"Garay, juan de av. 2874",4,-58.40489318,-34.62930162,moto,auto
-2019-0070,1,2019-08-22,12,avenida,Gorriti,"Scalabrini ortiz, raul av. y gorriti",14,-58.42686680,-34.59217875,moto,bicicleta
-2019-0071,1,2019-08-27,11,avenida,Olivera av.,Primera junta y olivera av.,9,-58.47961100,-34.65620398,peaton,cargas
+2019-0070,1,2019-08-22,12,avenida,Gorriti,"Scalabrini ortiz, raul av. y gorriti",14,-58.4268668,-34.59217875,moto,bicicleta
+2019-0071,1,2019-08-27,11,avenida,Olivera av.,Primera junta y olivera av.,9,-58.479611,-34.65620398,peaton,cargas
 2019-0072,1,2019-08-28,6,avenida,Azul,"Alberdi, juan bautista av. y azul",10,-58.47439934,-34.63524207,auto,auto
 2019-0073,1,2019-08-29,1,avenida,,Alvarez thomas av. 1788,15,-58.46711912,-34.57926018,auto,objeto fijo
 2019-0074,1,2019-08-29,9,autopista,"Paz, gral. av.","Lugones, leopoldo av. y paz, gral. av.",13,-58.46514781,-34.53465378,moto,cargas
 2019-0075,1,2019-08-30,23,calle,Lujan,San antonio y lujan,4,-58.37571078,-34.65584079,moto,pasajeros
 2019-0076,1,2019-09-05,18,autopista,,Autopista 1 sur presidente arturo frondizi y don pedro de mendoza av.,4,-58.37157668,-34.65429986,moto,cargas
 2019-0077,1,2019-09-08,3,avenida,Tagle,"Figueroa alcorta, pres. av. y tagle",14,-58.39811256,-34.58070186,peaton,auto
-2019-0078,1,2019-09-12,8,avenida,"Alcorta, amancio av.","Einstein, alberto y alcorta, amancio av.",4,-58.41125934,-34.65417740,peaton,cargas
+2019-0078,1,2019-09-12,8,avenida,"Alcorta, amancio av.","Einstein, alberto y alcorta, amancio av.",4,-58.41125934,-34.6541774,peaton,cargas
 2019-0079,1,2019-09-17,5,calle,Colombres,Agrelo y colombres,5,-58.41822901,-34.61866836,moto,pasajeros
 2019-0080,1,2019-09-17,19,gral paz,"Paz, gral. av.","Cabildo av. y paz, gral. av.",13,-58.47617802,-34.53825652,peaton,moto
 2019-0081,1,2019-09-23,16,avenida,,Elcano av. 4300,15,-58.46141281,-34.58623761,peaton,pasajeros
-2019-0082,1,2019-09-25,7,avenida,,"Rabanal, francisco, intendente av. 2428",8,-58.42985146,-34.66119740,bicicleta,cargas
-2019-0083,1,2019-09-26,8,calle,Corvalan,Monte y corvalan,9,-58.48457413,-34.65839090,auto,auto
+2019-0082,1,2019-09-25,7,avenida,,"Rabanal, francisco, intendente av. 2428",8,-58.42985146,-34.6611974,bicicleta,cargas
+2019-0083,1,2019-09-26,8,calle,Corvalan,Monte y corvalan,9,-58.48457413,-34.6583909,auto,auto
 2019-0084,1,2019-09-27,11,calle,Lafuente,Tandil y lafuente,7,-58.46572884,-34.63628186,bicicleta,cargas
-2019-0085,1,2019-10-09,22,calle,Bacacay,Cardoso y bacacay,10,-58.49261744,-34.63419130,bicicleta,tren
-2019-0086,1,2019-10-15,14,avenida,,Corrientes av. 6700,15,-58.45283186,-34.58841560,moto,pasajeros
+2019-0085,1,2019-10-09,22,calle,Bacacay,Cardoso y bacacay,10,-58.49261744,-34.6341913,bicicleta,tren
+2019-0086,1,2019-10-15,14,avenida,,Corrientes av. 6700,15,-58.45283186,-34.5884156,moto,pasajeros
 2019-0087,1,2019-10-21,21,avenida,Mendoza,Alvarez thomas av. y mendoza,12,-58.47973681,-34.57418656,moto,moto
 2019-0088,1,2019-10-22,20,avenida,"Bonavena, oscar natalio","Alcorta, amancio av. y bonavena, oscar natalio",4,-58.40623949,-34.65076549,peaton,pasajeros
 2019-0089,1,2019-10-23,15,avenida,"Blanes, juan manuel","Brown, alte. av. y blanes, juan manuel",4,-58.36244648,-34.63107887,peaton,cargas
@@ -517,7 +517,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2019-0100,1,2019-12-05,17,avenida,,De los constituyentes av. 4300,12,-58.49040794,-34.58368803,moto,auto
 2019-0101,1,2019-12-17,4,avenida,Tilcara av.,"Moreno, perito av. y tilcara av.",4,-58.42102679,-34.64991178,moto,moto
 2019-0102,1,2019-12-17,14,calle,"Gordillo, timoteo","Ibarrola y gordillo, timoteo",9,-58.52219407,-34.64143926,moto,auto
-2019-0103,1,2019-12-18,0,gral paz,Griveo,"Paz, gral. av. y griveo",11,-58.52169422,-34.59471640,moto,moto
+2019-0103,1,2019-12-18,0,gral paz,Griveo,"Paz, gral. av. y griveo",11,-58.52169422,-34.5947164,moto,moto
 2019-0104,1,2019-12-21,4,avenida,Pergamino,Rivadavia av. y pergamino,10,-58.47460416,-34.63206174,moto,auto
 2019-0105,1,2019-05-05,11,avenida,Segurola av.,Santo tome y segurola av.,10,-58.50512382,-34.61520391,peaton,auto
 2020-0001,1,2020-01-04,10,calle,Loyola,Uriarte y loyola,15,-58.43910409,-34.59213355,peaton,auto
@@ -526,9 +526,9 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2020-0004,1,2020-01-14,21,avenida,Rivadavia av.,Rodriguez peã‘a y rivadavia av.,1,-58.39055614,-34.60919284,peaton,pasajeros
 2020-0005,1,2020-01-14,6,avenida,San juan av.,24 de noviembre y san juan av.,3,-58.41036975,-34.62477021,moto,pasajeros
 2020-0006,1,2020-01-20,12,avenida,,Lafuente av. 2250,8,-58.44925765,-34.65412546,moto,cargas
-2020-0007,1,2020-01-27,0,calle,Lima,Chile y lima,1,-58.38156850,-34.61648696,peaton,moto
+2020-0007,1,2020-01-27,0,calle,Lima,Chile y lima,1,-58.3815685,-34.61648696,peaton,moto
 2020-0008,1,2020-01-30,7,avenida,"Jaures, jean","Cordoba av. y jaures, jean",2,-58.40662899,-34.59804521,moto,cargas
-2020-0009,1,2020-02-04,14,calle,"Salguero, jeronimo","Peron, juan domingo, tte. general y salguero, jeronimo",5,-58.41985649,-34.60600850,peaton,auto
+2020-0009,1,2020-02-04,14,calle,"Salguero, jeronimo","Peron, juan domingo, tte. general y salguero, jeronimo",5,-58.41985649,-34.6060085,peaton,auto
 2020-0010,1,2020-02-08,5,avenida,San juan av.,9 de julio av. y san juan av.,1,-58.38099833,-34.62214953,moto,objeto fijo
 2020-0011,1,2020-02-12,11,calle,,Colombres 466,5,-58.41803309,-34.61823178,moto,cargas
 2020-0012,1,2020-02-18,21,calle,,Mexico 2860,3,-58.40604003,-34.61783553,peaton,moto
@@ -538,9 +538,9 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2020-0016,1,2020-02-29,13,avenida,,"Alem, leandro n. av. 770",1,-58.37133616,-34.59879316,peaton,pasajeros
 2020-0017,1,2020-03-05,23,avenida,Rincon,Belgrano av. y rincon,3,-58.39613805,-34.61413568,peaton,auto
 2020-0018,1,2020-03-09,14,avenida,,"Udaondo, guillermo av. 901",13,-58.44903073,-34.54200276,moto,objeto fijo
-2020-0019,1,2020-03-10,21,calle,Castro,Constitucion y castro,5,-58.41972364,-34.62846670,peaton,auto
+2020-0019,1,2020-03-10,21,calle,Castro,Constitucion y castro,5,-58.41972364,-34.6284667,peaton,auto
 2020-0020,1,2020-03-13,17,avenida,"Gomez, valentin","Pueyrredon av. y gomez, valentin",3,-58.40571596,-34.60557123,peaton,moto
-2020-0021,1,2020-03-14,16,calle,,"Bravo, mario 1279",2,-58.41451590,-34.59488319,peaton,auto
+2020-0021,1,2020-03-14,16,calle,,"Bravo, mario 1279",2,-58.4145159,-34.59488319,peaton,auto
 2020-0022,1,2020-04-07,6,autopista,Escalada av.,Autopista dellepiane luis tte. gral. y escalada av.,9,-58.47297505,-34.66245085,auto,cargas
 2020-0023,1,2020-04-09,18,avenida,"Brown, alte. av.","Araoz de lamadrid, gregorio, gral. y brown, alte. av.",4,-58.35791192,-34.63695178,auto,cargas
 2020-0024,1,2020-04-24,7,calle,,Murguiondo 1339,9,-58.50801713,-34.65177305,auto,auto
@@ -549,36 +549,36 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2020-0027,1,2020-05-18,8,avenida,Montiel,"Dellepiane, luis, tte. gral. y montiel",8,-58.48267426,-34.68454456,peaton,cargas
 2020-0028,1,2020-05-19,10,avenida,Warnes av.,"Scalabrini ortiz, raul av. y warnes av.",15,-58.44248936,-34.60221948,peaton,pasajeros
 2020-0029,1,2020-06-10,14,gral paz,"Roffo, angel h., dr.","Paz, gral. av. y roffo, angel h., dr.",9,-58.52909134,-34.63886726,peaton,pasajeros
-2020-0030,1,2020-06-16,15,avenida,,San martin av. 1550,6,-58.45158942,-34.60646580,moto,multiple
+2020-0030,1,2020-06-16,15,avenida,,San martin av. 1550,6,-58.45158942,-34.6064658,moto,multiple
 2020-0031,1,2020-06-30,8,avenida,Larraya,"Garzon, eugenio, gral. av. y larraya",9,-58.49344309,-34.65788529,moto,cargas
 2020-0032,1,2020-07-10,23,avenida,Serrano,Corrientes av. y serrano,15,-58.44259166,-34.59635137,moto,auto
 2020-0033,1,2020-07-19,6,gral paz,Del libertador av.,"Paz, gral. av. y del libertador av.",13,-58.46743471,-34.53476874,auto,objeto fijo
 2020-0034,1,2020-08-02,3,calle,"Anchorena, tomas manuel de, dr.","Mitre, bartolome y anchorena, tomas manuel de, dr.",3,-58.41178158,-34.60922259,peaton,auto
 2020-0035,1,2020-08-04,5,autopista,,Autopista 25 de mayo y pumacahua,7,-58.45068621,-34.63638927,moto,pasajeros
-2020-0036,1,2020-08-07,18,avenida,Paraguay,"Scalabrini ortiz, raul av. y paraguay",14,-58.42016954,-34.58778790,peaton,moto
+2020-0036,1,2020-08-07,18,avenida,Paraguay,"Scalabrini ortiz, raul av. y paraguay",14,-58.42016954,-34.5877879,peaton,moto
 2020-0037,1,2020-08-29,4,avenida,Varela av.,"Fernandez de la cruz, f., gral. av. y varela av.",8,-58.43850413,-34.65554754,peaton,auto
 2020-0038,2,2020-08-30,4,avenida,"Diaz, cnel. av.","Las heras general av. y diaz, cnel. av.",14,-58.40617526,-34.58345898,auto,auto
 2020-0039,1,2020-09-01,19,calle,,Murguiondo,9,,,peaton,cargas
-2020-0040,1,2020-09-12,3,avenida,Calle 12 (no oficial),"Castillo, ramon s., pres. av. y calle 12 (no oficial)",2,-58.38526125,-34.57805810,auto,objeto fijo
-2020-0041,1,2020-09-28,1,avenida,"Peron, eva av.","Curapaligue y peron, eva av.",7,-58.44750470,-34.63491705,moto,pasajeros
+2020-0040,1,2020-09-12,3,avenida,Calle 12 (no oficial),"Castillo, ramon s., pres. av. y calle 12 (no oficial)",2,-58.38526125,-34.5780581,auto,objeto fijo
+2020-0041,1,2020-09-28,1,avenida,"Peron, eva av.","Curapaligue y peron, eva av.",7,-58.4475047,-34.63491705,moto,pasajeros
 2020-0042,1,2020-09-29,17,avenida,Soldado de la frontera av.,"Diaz, ana y soldado de la frontera av.",8,-58.46745752,-34.68192648,peaton,pasajeros
 2020-0043,1,2020-09-30,17,avenida,Paraguay,"Alem, leandro n. av. y paraguay",1,-58.37202621,-34.59717942,peaton,pasajeros
 2020-0044,1,2020-10-05,0,avenida,Independencia av.,La plata av. e independencia av.,6,-58.42779702,-34.62207347,auto,auto
 2020-0045,1,2020-10-19,3,gral paz,27 de febrero av.,"Paz, gral. av. y 27 de febrero av.",8,-58.46244952,-34.70524971,auto,cargas
-2020-0046,1,2020-10-27,21,avenida,"Carranza, adolfo p.","Nazca av. y carranza, adolfo p.",11,-58.48440160,-34.60776782,moto,moto
+2020-0046,1,2020-10-27,21,avenida,"Carranza, adolfo p.","Nazca av. y carranza, adolfo p.",11,-58.4844016,-34.60776782,moto,moto
 2020-0047,1,2020-10-27,14,autopista,Lacarra av.,Autopista presidente hã‰ctor j. cãmpora y lacarra av.,9,-58.46668375,-34.65174801,peaton,cargas
-2020-0048,1,2020-10-29,20,avenida,,Dorrego av. 614,15,-58.44958780,-34.59322448,moto,objeto fijo
+2020-0048,1,2020-10-29,20,avenida,,Dorrego av. 614,15,-58.4495878,-34.59322448,moto,objeto fijo
 2020-0049,1,2020-10-30,20,avenida,"Ramos mejia, jose maria, dr. av.","Del libertador av. y ramos mejia, jose maria, dr. av.",1,-58.37533517,-34.59276462,peaton,auto
 2020-0050,1,2020-11-01,22,avenida,Godoy cruz,Santa fe av. y godoy cruz,14,-58.42525456,-34.57866344,peaton,moto
 2020-0051,1,2020-11-05,0,avenida,Mercedes,Avellaneda av. y mercedes,10,-58.48493828,-34.62981124,moto,auto
 2020-0052,1,2020-11-07,6,avenida,Pueyrredon av.,Tucuman y pueyrredon av.,3,-58.40480504,-34.60183884,bicicleta,cargas
-2020-0053,1,2020-11-09,3,avenida,"Einstein, alberto","Alcorta, amancio av. y einstein, alberto",4,-58.41125934,-34.65417740,auto,auto
-2020-0054,1,2020-11-19,9,calle,Alberti,Inclan y alberti,4,-58.39956546,-34.62977080,bicicleta,auto
-2020-0055,1,2020-11-19,12,avenida,,Olazabal av. 5437,12,-58.49005682,-34.57868970,peaton,cargas
+2020-0053,1,2020-11-09,3,avenida,"Einstein, alberto","Alcorta, amancio av. y einstein, alberto",4,-58.41125934,-34.6541774,auto,auto
+2020-0054,1,2020-11-19,9,calle,Alberti,Inclan y alberti,4,-58.39956546,-34.6297708,bicicleta,auto
+2020-0055,1,2020-11-19,12,avenida,,Olazabal av. 5437,12,-58.49005682,-34.5786897,peaton,cargas
 2020-0056,1,2020-11-21,13,gral paz,"Roca, cnel. av.","Paz, gral. av. y roca, cnel. av.",8,-58.47064556,-34.69843756,moto,cargas
-2020-0057,1,2020-11-23,7,avenida,"Viale, luis","Nazca av. y viale, luis",11,-58.47501560,-34.61945902,peaton,auto
+2020-0057,1,2020-11-23,7,avenida,"Viale, luis","Nazca av. y viale, luis",11,-58.4750156,-34.61945902,peaton,auto
 2020-0058,1,2020-11-24,16,avenida,"Falcon, ramon l.,cnel.","Olivera av. y falcon, ramon l.,cnel.",10,-58.48727942,-34.63652467,peaton,auto
-2020-0059,1,2020-12-01,6,calle,,Brasil 1100,1,-58.37951690,-34.62794241,peaton,pasajeros
+2020-0059,1,2020-12-01,6,calle,,Brasil 1100,1,-58.3795169,-34.62794241,peaton,pasajeros
 2020-0060,1,2020-12-03,20,avenida,"Peron, eva av.","Homero y peron, eva av.",9,-58.47750832,-34.65672199,peaton,moto
 2020-0061,1,2020-12-03,14,autopista,"Udaondo, guillermo av.","Cantilo, int. y udaondo, guillermo av.",13,-58.44927253,-34.54048625,moto,cargas
 2020-0062,1,2020-12-04,17,calle,,Moreno 1845,3,-58.39246272,-34.61253541,bicicleta,pasajeros
@@ -607,12 +607,12 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2021-0007,1,2021-01-18,10,avenida,Giribone,De los constituyentes av. y giribone,15,-58.48744301,-34.58622275,moto,moto
 2021-0008,1,2021-01-22,23,avenida,"Rabanal, francisco, intendente av.","Saenz av. y rabanal, francisco, intendente av.",4,-58.41657793,-34.65476216,peaton,pasajeros
 2021-0009,1,2021-01-23,5,avenida,Gaona av.,Paysandu y gaona av.,6,-58.45351111,-34.61134937,moto,objeto fijo
-2021-0010,1,2021-01-23,8,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.50073810,-34.54979510,moto,auto
+2021-0010,1,2021-01-23,8,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.5007381,-34.5497951,moto,auto
 2021-0011,1,2021-01-27,1,avenida,,Santa fe av. 1675,2,-58.39144148,-34.59564871,peaton,auto
 2021-0012,1,2021-01-29,20,autopista,Guamini,"Dellepiane, luis, tte. gral. y guamini",8,-58.48191128,-34.68385968,peaton,auto
 2021-0013,1,2021-01-31,6,avenida,Olivera av.,"Falcon, ramon l.,cnel. y olivera av.",10,-58.48727942,-34.63652467,moto,objeto fijo
 2021-0014,1,2021-02-02,0,avenida,Nogoya,San martin av. y nogoya,15,-58.48328708,-34.59779521,peaton,auto
-2021-0015,1,2021-02-06,3,avenida,Tinogasta,San martin av. y tinogasta,15,-58.49018543,-34.59724990,moto,objeto fijo
+2021-0015,1,2021-02-06,3,avenida,Tinogasta,San martin av. y tinogasta,15,-58.49018543,-34.5972499,moto,objeto fijo
 2021-0016,1,2021-02-14,5,avenida,"De la torre, lisandro","Fernandez de la cruz, f., gral. av. y de la torre, lisandro",8,-58.47230127,-34.68482689,auto,objeto fijo
 2021-0017,1,2021-02-17,4,avenida,Caseros av.,Salta y caseros av.,1,-58.38262614,-34.63168269,moto,pasajeros
 2021-0018,1,2021-02-20,19,calle,"Peron, juan domingo, tte. general","Jaures, jean y peron, juan domingo, tte. general",3,-58.41047268,-34.60793518,peaton,auto
@@ -638,46 +638,46 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2021-0038,1,2021-05-14,11,avenida,Santa fe av.,"Justo, juan b. av. y santa fe av.",14,-58.42653328,-34.57816791,moto,cargas
 2021-0039,1,2021-05-15,12,avenida,"Alberdi, juan bautista av.","Oliden y alberdi, juan bautista av.",9,-58.50407099,-34.65303372,bicicleta,auto
 2021-0040,1,2021-05-20,5,gral paz,Del libertador av.,"Paz, gral. av. y del libertador av.",13,-58.46743471,-34.53476874,moto,auto
-2021-0041,1,2021-05-20,8,avenida,Casares av.,Del libertador av. y casares av.,14,-58.40986646,-34.57728060,peaton,pasajeros
+2021-0041,1,2021-05-20,8,avenida,Casares av.,Del libertador av. y casares av.,14,-58.40986646,-34.5772806,peaton,pasajeros
 2021-0042,1,2021-05-21,5,avenida,,Rivadavia av. 10900,9,-58.51739138,-34.63931792,peaton,pasajeros
 2021-0043,1,2021-05-22,18,avenida,Pilar,"Alberdi, juan bautista av. y pilar",9,-58.50719962,-34.65556223,peaton,auto
 2021-0044,1,2021-05-25,2,avenida,"Acosta, mariano","Peron, eva av. y acosta, mariano",9,-58.46712311,-34.64600222,moto,objeto fijo
 2021-0045,1,2021-05-26,17,autopista,,Autopista 1 sur presidente arturo frondizi y suarez av.,4,-58.37709334,-34.64035082,moto,multiple
 2021-0046,1,2021-05-31,2,avenida,Guzman av.,Elcano av. y guzman av.,15,-58.46033141,-34.58569883,auto,objeto fijo
 2021-0047,1,2021-06-02,16,avenida,"Rabanal, francisco, intendente av.","Vedia, agustin de y rabanal, francisco, intendente av.",4,-58.42190745,-34.65633192,moto,auto
-2021-0048,1,2021-06-03,9,avenida,Congreso av.,Capdevila y congreso av.,12,-58.49026573,-34.56981410,bicicleta,auto
+2021-0048,1,2021-06-03,9,avenida,Congreso av.,Capdevila y congreso av.,12,-58.49026573,-34.5698141,bicicleta,auto
 2021-0049,1,2021-06-03,20,avenida,,"Fernandez de la cruz, f., gral. av. 4000",8,-58.45410344,-34.66902702,auto,auto
 2021-0050,1,2021-06-10,13,avenida,,Del libertador av. 5958,13,-58.44751621,-34.55719892,moto,pasajeros
 2021-0051,1,2021-06-15,19,avenida,Erezcano av.,27 de febrero av. y erezcano av.,4,-58.42040352,-34.66005171,peaton,cargas
 2021-0052,1,2021-06-20,5,gral paz,,"Paz, gral. av. 14723",8,-58.49530249,-34.68010798,moto,objeto fijo
-2021-0053,1,2021-06-20,12,avenida,,Corrientes av. 5783,15,-58.44399875,-34.59477360,peaton,bicicleta
+2021-0053,1,2021-06-20,12,avenida,,Corrientes av. 5783,15,-58.44399875,-34.5947736,peaton,bicicleta
 2021-0054,1,2021-06-22,14,calle,Erezcano,Tabare y erezcano,4,-58.42759813,-34.65463857,moto,cargas
 2021-0055,1,2021-06-29,12,avenida,Pueyrredon av.,Corrientes av. y pueyrredon av.,3,-58.40547222,-34.60456293,moto,cargas
-2021-0056,1,2021-07-09,23,avenida,"Moreno, perito av.","Corrales y moreno, perito av.",4,-58.42473018,-34.65008280,bicicleta,auto
+2021-0056,1,2021-07-09,23,avenida,"Moreno, perito av.","Corrales y moreno, perito av.",4,-58.42473018,-34.6500828,bicicleta,auto
 2021-0057,1,2021-07-10,23,autopista,,Autopista  arturo illia (cabina de peaje),2,-58.39257023,-34.57563957,auto,objeto fijo
 2021-0058,1,2021-07-21,0,gral paz,Vedia,"Paz, gral. av. y vedia",12,-58.48941042,-34.54596153,peaton,auto
-2021-0059,1,2021-07-22,1,avenida,,"Garay, juan de av. 2269",3,-58.39640740,-34.62783085,auto,objeto fijo
-2021-0060,1,2021-07-22,12,avenida,Rivadavia av.,"Salguero, jeronimo y rivadavia av.",5,-58.41971993,-34.61112240,peaton,pasajeros
+2021-0059,1,2021-07-22,1,avenida,,"Garay, juan de av. 2269",3,-58.3964074,-34.62783085,auto,objeto fijo
+2021-0060,1,2021-07-22,12,avenida,Rivadavia av.,"Salguero, jeronimo y rivadavia av.",5,-58.41971993,-34.6111224,peaton,pasajeros
 2021-0061,1,2021-07-24,9,avenida,"Alcorta, amancio av.","Moreno, perito av. y alcorta, amancio av.",4,-58.40544588,-34.65012801,peaton,cargas
 2021-0062,1,2021-07-27,7,avenida,,La plata av. 2723,4,-58.42003882,-34.64645957,auto,cargas
 2021-0063,1,2021-08-02,4,avenida,,"Alberdi, juan bautista av. 2906",7,-58.46851293,-34.63348678,auto,auto
 2021-0064,1,2021-08-02,20,gral paz,Tonelero,"Paz, gral. av. y tonelero",9,-58.52931141,-34.65422917,peaton,cargas
-2021-0065,1,2021-08-06,8,avenida,La plata av.,San juan av. y la plata av.,6,-58.42675754,-34.62699730,peaton,pasajeros
+2021-0065,1,2021-08-06,8,avenida,La plata av.,San juan av. y la plata av.,6,-58.42675754,-34.6269973,peaton,pasajeros
 2021-0066,1,2021-08-06,20,avenida,"Paz, gral. av.","Lope de vega av. y paz, gral. av.",11,-58.52933723,-34.61098186,peaton,pasajeros
 2021-0067,1,2021-08-08,9,autopista,,Autopista 1 sur presidente arturo frondizi y brasil,1,-58.37910943,-34.62764718,moto,objeto fijo
 2021-0068,1,2021-08-15,6,avenida,,"Beiro, francisco av. 5071",11,-58.52161176,-34.61164474,moto,objeto fijo
-2021-0069,1,2021-08-20,17,avenida,,Santa fe av. 3428,14,-58.41354692,-34.58697680,peaton,auto
+2021-0069,1,2021-08-20,17,avenida,,Santa fe av. 3428,14,-58.41354692,-34.5869768,peaton,auto
 2021-0070,1,2021-08-28,8,avenida,Varela av.,"Chilavert, martiniano, coronel y varela av.",8,-58.43960781,-34.65470804,moto,cargas
-2021-0071,1,2021-08-31,16,calle,,San luis 2730,3,-58.40454610,-34.60003693,peaton,moto
+2021-0071,1,2021-08-31,16,calle,,San luis 2730,3,-58.4045461,-34.60003693,peaton,moto
 2021-0072,1,2021-09-01,19,avenida,Paraguay,Callao av. y paraguay,2,-58.39303911,-34.59871111,peaton,auto
 2021-0073,1,2021-09-18,12,avenida,"Agote, luis dr.","Del libertador av. y agote, luis dr.",2,-58.39391034,-34.58405348,bicicleta,auto
-2021-0074,1,2021-09-20,15,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.50073810,-34.54979510,moto,multiple
+2021-0074,1,2021-09-20,15,gral paz,"Balbin, ricardo, dr. av.","Paz, gral. av. y balbin, ricardo, dr. av.",12,-58.5007381,-34.5497951,moto,multiple
 2021-0075,1,2021-09-21,14,calle,Brasil,Salta y brasil,1,-58.38281301,-34.62786038,peaton,cargas
 2021-0076,1,2021-10-16,6,avenida,,"Moreno, perito av. 2152",7,-58.43980799,-34.65094083,moto,objeto fijo
 2021-0077,1,2021-10-18,7,avenida,,Directorio av. 1169,6,-58.44402387,-34.62933109,moto,cargas
 2021-0078,1,2021-10-23,6,avenida,La plata av.,Independencia av. y la plata av.,6,-58.42779702,-34.62207347,moto,pasajeros
 2021-0079,1,2021-10-25,3,calle,,Tucuman 3112,3,-58.40944147,-34.60097942,peaton,auto
-2021-0080,1,2021-10-28,16,avenida,9 de julio av.,Arenales y 9 de julio av.,1,-58.38277479,-34.59430160,moto,auto
+2021-0080,1,2021-10-28,16,avenida,9 de julio av.,Arenales y 9 de julio av.,1,-58.38277479,-34.5943016,moto,auto
 2021-0081,1,2021-11-02,13,autopista,,Autopista 1 sur presidente arturo frondizi y brandsen,4,-58.37627355,-34.63800916,moto,cargas
 2021-0082,1,2021-11-06,4,autopista,,Autopista 25 de mayo y pasco,3,-58.39591856,-34.62453459,moto,auto
 2021-0083,1,2021-11-09,0,avenida,Olazabal,Cabildo av. y olazabal,13,-58.45829717,-34.56015762,moto,auto
@@ -689,7 +689,7 @@ Id_hecho,Victimas,Fecha,Hora,Tipo_calle,Cruce,Direccion,Comuna,Longitud,Latitud,
 2021-0089,1,2021-12-02,1,avenida,,Gaona av. 3655,11,-58.47633683,-34.62140594,moto,auto
 2021-0090,1,2021-12-10,11,avenida,Lavalle,9 de julio av. y lavalle,1,-58.38188582,-34.60256036,peaton,pasajeros
 2021-0091,1,2021-12-11,23,calle,"Hugo, victor","Baigorria y hugo, victor",10,-58.51989389,-34.62284918,moto,auto
-2021-0092,1,2021-12-12,6,avenida,Pueyrredon av.,Rivadavia av. y pueyrredon av.,3,-58.40596860,-34.61011987,peaton,auto
+2021-0092,1,2021-12-12,6,avenida,Pueyrredon av.,Rivadavia av. y pueyrredon av.,3,-58.4059686,-34.61011987,peaton,auto
 2021-0093,1,2021-12-13,17,avenida,Mom,Riestra av. y mom,7,-58.43353773,-34.64561636,moto,auto
 2021-0094,1,2021-12-20,1,autopista,Lacarra av.,"Dellepiane, luis, tte. gral. y lacarra av.",9,-58.46739825,-34.65117757,moto,auto
 2021-0095,1,2021-12-30,0,avenida,Terrada,Gaona av. y terrada,11,-58.47293407,-34.61984745,moto,cargas
